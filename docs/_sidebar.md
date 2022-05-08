@@ -1,0 +1,6 @@
+- **Getting Started**
+    - [Whitepaper](/)
+    - [Roadmap](roadmap.md)
+- **Utility**
+    - [Hyena Fight Club: The Game](hfcg.md)
+    - [Hyena Hunt Club Token ($HHC)](hhc.md)
