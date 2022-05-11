@@ -1,6 +1,7 @@
 - **Getting Started**
     - [Whitepaper](/)
     - [Roadmap](roadmap.md)
+    - [Our Team](our-team.md)
 - **Utility**
-    - [Hyena Fight Club: The Game](hfcg.md)
-    - [Hyena Hunt Club Token ($HHC)](hhc.md)
+    - [Hyena Clans](hyena-clans.md)
+    - [$HHC Token](token.md)
