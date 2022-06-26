@@ -1,20 +1,37 @@
-# Launch Roadmap
+# Roadmap
 
-## Q2 2022 
-- Hyena Fight Club website launch.
-- Networking and Discord Community set up.
-- Mint of **Male Warrior** Hyena Collection.
+## Phase 1
+- Website Development followed followed by launch.
+- Discord set up with the establishment of THE PACK (our community).
+    - Weekly events; Art/Meme contests, Trivia/Game night, Gaming tournaments, Weekly get-togethers and many others will be hosted in our Discord server to foster a tight-knit community.
+- Deployment / Launchpad.
+- Mint I (Male Hyena Warriors).
 - Marketing tie-ups to increase social media presence.
 
-## Q3 2022
-- Mint of **Female Warrior** Hyena Collection
-- Donation of proceeds to a **wildlife conservation** or **protection** fund (chosen by Discord Members).
+## Phase 2
+- Mint II (Female Hyena Warriors).
+- Donation of proceeds to an Enviromental Organization
+    - We will be dontaing a minimum of 10% of all Secondary-market royalties to an Enviromental Organization chosen by our pack members.
+- Collaborations
+    - We will collaborate with several like-minded projects, inluencers as well as artists to increase the presence of Hyena Fight Club spread the message of THE PACK.
 
-## Q4 2022 - Q1 2023
-- Begin development of the **Hyena Clans** Metaverse game.
-- Hyena Hunt Club Token ($HHC)development.
-- Begin alpha testing followed by beta testing of **Hyena Clans** (by our community).
+## Phase 3
+- $HUNTZ Utility Token
+    - Capped supply of 50,000,000 $HFC will be used in our eco-system.
+    - To learn more, read our whitepaper.
+- HFC Staking
+    - Holders of Hyena Fight Club NFTs will be able to utilise our staking platform to earn passive-income in the form of our native token.
+    - $HUNTZ will be awarded to Stakers increasingly with time. To learn more, read our whitepaper.
+- THE PACK DAO 
+    - THE PACK will be a High end DAO experience offered to holders of Hyena Fight Club NFT. 
+    - We aim to be a community-centric project and THE PACK DAO will serve as a forum for cooperation and team work amongst pack members to dictate the direction of the project.
+    - To learn more, read our whitepaper.
 
-## Q2 2023
-- ICO of Hyena Hunt Club Token ($HHC) followed by listing on DEX and CEX.
-- Hyena Clans final release for holders of HFC NFTs.
+## Phase 4
+- HYENA CLANS
+    - Hyena Clans is our flagship Web3 P2E game that is another outlet for holders to passively earn income.
+    - Development will begin in late Q1 2023.
+    - To learn more, read our whitepaper.
+- Merchandise
+    - We aim to establish Hyena Fight Club as a brand in the near future.
+    - Collaborations with well established brands to provide our holders with the highest quality merchandise.
