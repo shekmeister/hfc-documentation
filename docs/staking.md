@@ -1,7 +1,5 @@
 # HFC Staking
 
-## Introduction
-
 Staking of NFTs refers to the locking of NFTs for certain amounts of time on a platform or protocol to receive staking rewards and other privileges. In our case the rewards offered by Hyena Fight Club to Stakers will be **$HUNTZ** tokens. 
 
 Staking is also the **primary** method of distributing tokens tokens amongst holders in order to establish an ecosystem around our token. 
