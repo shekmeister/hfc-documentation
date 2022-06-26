@@ -6,4 +6,7 @@
     - [Tokenomics](token.md)
     - [Staking](staking.md)
     - [The Pack DAO](dao.md)
-    - [Hyena Clans](hyena-clans.md)
+- **Way of The Pack: The Game**
+    - [Introduction](hyena-clans.md)
+    - [Hyena Brawlz](hyena-fc.md)
+    - [The Pack](hyena-hunts.md)
