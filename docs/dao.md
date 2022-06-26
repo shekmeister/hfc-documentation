@@ -1,7 +1,5 @@
 # The Pack DAO
 
-## Introduction
-
 A Decentralized Autonomous Organization or simply, A DAO, is a organization that is controlled by its members and not influenced by a central authoritative figure, in other words it is a community without a centralized leadership.   
 
 ## Governance
