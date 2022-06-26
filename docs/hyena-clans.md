@@ -1,26 +1,22 @@
-# Hyena Clans
+# Way of The Pack
 
-**Hyena Clans** will be a Next Generation Web3 Game and will available on Solana Blockchain. Holders of Hyena Fight Club NFTs are eligible to participate in this one of a kind experience.
+**Way of The Pack** will be a next-generation Web3 game and will be built on the Solana Blockchain. Holders of Hyena Fight Club NFTs are eligible to participate in this one of a kind experience.
 
 ## The Characters
 
-Hyena Fight Club NFT holders will be able to use their NFTs as in-game assets in our upcoming game. Each NFT is ranked "**Common**", "**Uncommon**", "**Rare**", or "**Legendary**" based on the rarity of its traits.
+Hyena Fight Club NFT holders will be able to use their NFTs as in-game assets in our upcoming game. Each NFT is ranked "**Common**", "**Uncommon**", "**Rare**", or "**Legendary**" based on the rarity of its traits. For example, "Legendary" NFTs will be **significantly stronger** than "Rare", "Uncommon" or  "Common" NFTs.
 
-Consequently, the rarity of each NFT would directly influence the perks possessed by them . 
+Consequently, the rarity of each NFT would directly influence the perks possessed by them. 
 > *Users can view the rarity of their NFTs on our website and in-game.*
 
-## Requirements 
+## Game Modes
 
-To play the game, an induvidual must own the following:
-- **1 x Female Warrior Hyena NFT**
-- **3 x Male Warriors Hyena NFTs**
+The two current planned game-modes for Way of The Pack are:
+- Hyena Fight Club
+    A PvP (players-vs-player) arcade style fighting game mode.
+- Hyena Hunts
+    A PvE (players-vs environment) arcade survival game mode.
 
-Players are required to build their ***Clan*** with the aforementioned minimum requirements. Each player can only have **ONE** Female  Warrior as the **Queen** of the pack and upto **TEN** Male Warriors in their clan.
+Both these game modes offer players an avenue of earning our $HUNTZ tokens which can be exchaned for $SOL. We will be adding more game-modes in the future.
 
-## Gameplay
-
-A Clan needs to gather prey for survival and either carry out **Hunts** or **Steal Food** from Lions or other animals in the jungle. The number of ***successful*** hunts and ***stolen*** prey directly infulences the **Ranking** and status of a Clan amongst other Clans.
-
-A **new game** would start every month. Players will have to **compete against each other** throughout said month, increasing the ranking of their respectinve Clans by carrying out successful hunts or stealing food from other animals. The Player whose Clan has the **highest ranking** at the end of the month will be considerd the ***Victor*** and will in turn walk away with the alotted Prize Pool for the month.
-
-
+> Holders will **NOT** be able to utilise *staked NFTs* in either game-mode.
