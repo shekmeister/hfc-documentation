@@ -1,15 +1,11 @@
 # Our Team
 
-We’re a team of specialists with over 5 years of experience in our respective fields, including the crypto space. During the past two years, we have completely shifted our focus onto the NFT space as we sought to bring a new experience to crypto enthusiasts and provide prospective customers with a meaningful investment.
+We’re a team of three rebels set out on a journey to preach the word of **THE PACK** and build a united community of *change-makers* and *critical thinkers*, to bring innovation the **Web3** space.
 
 ## Meet the Team
-- ### Mohsin Sait
-Project Head
-- ### Mohammad Salahuddin Shariff
-Project and Human Resouces Head
-- ### Ruksana Banu
-Marketing Head
-- ### Nadeem Ahmed
-IT Head
-- ### Abhisheke Acharya
-Web3 Development
+- ### shekmeister
+Web3 Developer, animal lover, audiophile.
+- ### salah
+Creative lead, crypto wizard, documentary fanatic.
+- ### cra1G
+Fullstack Developer, avid traveler, motorsport enthusiast.
