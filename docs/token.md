@@ -3,10 +3,11 @@
 $HUNTZ will be the Utility Token offered by Hyena Fight Club. A total of 50,000,000 $HUNTZ tokens will be minted with a capped Supply. Holders can earn $HUNTZ passively through our various outlets.
 
 ## Distribution of Supply
-- Staking : 60%
-- Liquidity Pool : 5%
-- DAO Pool : 15%
-- Project Reserve : 15%
+- Staking pool: 60% (30,000,000 $HUNTZ)
+- The Pack DAO Pool: 15% (7,500,000 $HUNTZ)
+- Hyena Clans pool: 5% (2,500,000 $HUNTZ)
+- Liquidity Pool: 5% (2,500,000 $HUNTZ)
+- Project Reserve: 15% (7,500,000 $HUNTZ)
 
 > The price of $HUNTZ will remain the same for all utility, regardless of inflation or deflation.
 
