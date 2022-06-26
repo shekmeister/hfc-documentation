@@ -12,10 +12,8 @@ Consequently, the rarity of each NFT would directly influence the perks possesse
 ## Game Modes
 
 The two current planned game-modes for Way of The Pack are:
-- **Hyena Brawlz**
-    A PvP (players-vs-player) arcade-style fighting game mode.
-- **The Pack**
-    A PvE (players-vs environment) arcade-style survival game mode.
+- **Hyena Brawlz**: A PvP (players-vs-player) arcade-style fighting game mode.
+- **The Pack**: A PvE (players-vs environment) arcade-style survival game mode.
 
 Both these game modes offer players an avenue of earning our $HUNTZ tokens which can be exchaned for $SOL. We will be adding more game-modes in the future.
 
