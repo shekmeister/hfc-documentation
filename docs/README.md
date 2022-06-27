@@ -4,7 +4,7 @@
 
 ***"We don't laugh for fun, it's our call of Dominance."***
 
-Hyena Fight Club is a sacred band of warriors who forever stand united against all odds. They are here to take over the Solana Blockchain and restore peace and order amongst society. The Hyena Warriors share an unwaivering bond and never fail to have each others back. Their strength lies in their numbers and together, they are an unstoppable force. 
+Hyena Fight Club is a sacred band of warriors who forever stand united against all odds. They are here to take over the Solana Blockchain and restore peace and order amongst society. The Hyena Warriors share an unwavering bond and never fail to have each others back. Their strength lies in their numbers and together, they are an unstoppable force. 
 
 Our Project offers two NFT collections; Male Hyena Warriors and the Female Hyena Warriors (coming soon). Hyena Fight Club has been meticulously constructed by talented artists and industry specialists whose primary objective is to deliver a worthwhile and meaningful investment to our holders whilst simultaneously fostering a strong and united community of like minded individuals.
 
