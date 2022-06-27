@@ -19,7 +19,7 @@ Every NFT is ranked on basis of the rarity of its traits. Holders can view the a
 2222 Female Hyena Warriors will be let loose into the Solana Blockchain in the near future. Female Hyenas rank the highest on the Social Heirarchy of a Pack. They are bigger and stronger than the males and are the LEADERS of the Pack.
 
 ### Male Hyena Warriors
-4444 Male Hyena Warriors roam freely int the Solana Blockchain. They are the infantry of the Pack and are subordinate to the Female Hyenas. All the packs heavy lifting is done by the Males whereas the decision making is left to the Females.
+4444 Male Hyena Warriors roam freely in the Solana Blockchain. They are the infantry of the Pack and are subordinate to the Female Hyenas. All the packs heavy lifting is done by the Males whereas the decision making is left to the Females.
 
 ## Giving back
 All of us here at Hyena Fight Club are serious animal lovers. We are committed to helping them in anyway that we can. Therefore, a percentage of all post-sales royalties will be pledged to an Enviromental Organization chosen by our Discord Community.
