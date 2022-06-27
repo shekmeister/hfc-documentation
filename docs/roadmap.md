@@ -10,7 +10,7 @@
 
 ## Phase 2
 - Mint II (Female Hyena Warriors).
-- Donation of proceeds to an Enviromental Organization
+- Donation of proceeds to an Environmental Organization
     - We will be dontaing a minimum of 10% of all Secondary-market royalties to an Enviromental Organization chosen by our pack members.
 - Collaborations
     - We will collaborate with several like-minded projects, inluencers as well as artists to increase the presence of Hyena Fight Club spread the message of THE PACK.
