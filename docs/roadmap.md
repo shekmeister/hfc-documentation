@@ -17,7 +17,7 @@
 
 ## Phase 3
 - $HUNTZ Utility Token
-    - Capped supply of 50,000,000 $HFC will be used in our eco-system.
+    - Capped supply of 50,000,000 $HUNTZ will be used in our eco-system.
     - To learn more, read our whitepaper.
 - HFC Staking
     - Holders of Hyena Fight Club NFTs will be able to utilise our staking platform to earn passive-income in the form of our native token.
@@ -28,8 +28,8 @@
     - To learn more, read our whitepaper.
 
 ## Phase 4
-- HYENA CLANS
-    - Hyena Clans is our flagship Web3 P2E game that is another outlet for holders to passively earn income.
+- Way of The Pack
+    - Way of The Pack is our flagship Web3 P2E game that is another outlet for holders to passively earn income.
     - Development will begin in late Q1 2023.
     - To learn more, read our whitepaper.
 - Merchandise
