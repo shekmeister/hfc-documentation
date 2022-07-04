@@ -7,6 +7,6 @@
     - [Staking](staking.md)
     - [The Pack DAO](dao.md)
 - **Way of The Pack: The Game**
-    - [Introduction](hyena-clans.md)
-    - [Hyena Brawlz](hyena-fc.md)
-    - [The Pack](hyena-hunts.md)
+    - [Introduction](wotp.md)
+    - [Hyena Brawlz](brawlz.md)
+    - [The Pack](the-hunt.md)
